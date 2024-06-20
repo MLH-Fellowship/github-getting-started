@@ -105,3 +105,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+* [Interactive lessons about Git commands](https://learngitbranching.js.org/?locale=en_US)
